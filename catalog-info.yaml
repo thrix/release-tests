@@ -10,8 +10,11 @@ metadata:
   annotations:
     github.com/project-slug: "openshift/release-tests"
   tags:
+    - errata
+    - jenkins
     - openshift
     - python
+    - slack
   links:
     - title: Help
       url: https://github.com/openshift/release-tests/blob/master/oar/README.md
